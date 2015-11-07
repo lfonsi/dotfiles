@@ -1,0 +1,8 @@
+#ALIAS FILE
+
+alias rld='source $HOME/.bashrc'
+alias c=clear
+alias ll='ls -lGaf'
+
+#shortcut to Projects folder
+alias projects='cd $HOME/Work/Projects'
